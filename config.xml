@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.longbeachit.sciencefare"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Science Fare</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		App to raise money for school technology program... No Longer <<A template for getting started with PhoneGap development and build.phonegap.com>>
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://markpowers.github.com"
+		email="markpowersy@longbeachit.com">
+		Mark Powers
 	</author>
 
 	<gap:platforms>
